@@ -1,0 +1,54 @@
+
+body{
+  background-image: linear-gradient(to bottom right, lightgreen, rgb(252, 94, 94));
+  
+}
+
+h1{
+  background-image: url("Food head.jpeg");
+  background-size: cover;
+  text-align: center;
+  font-size: 60px;
+  height: 100px;
+  color: white;
+  padding-top: 50px;
+  
+}
+
+h1, h3, h4{
+  font-family: helvetica;
+  text-align: center;
+}
+
+h3{
+  font-size: 30px;
+  
+}
+
+a{
+  background-color: rgba(248, 67, 67, 0.581);
+  font-family: helvetica;
+  padding: 5px;
+  color: white;
+  text-align: center;
+  
+}
+
+a:hover{
+  background-color: rgba(0, 128, 0, 0.686);
+  color: white;
+}
+
+.tocenter {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+
+div{
+  column-count: 2;
+
+}
+
